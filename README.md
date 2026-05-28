@@ -44,4 +44,4 @@ Customers from Maharashtra, Karnataka, and Uttar Pradesh
 Major platforms like Amazon, Flipkart, and Myntra
 
 ## 6. Dashboard Preview
-![Dashoboard Preview](https://github.com/KaushiKrrish/Customer_Churn_Analysis/blob/main/Churn_Analysis_Summary_Page.png)
+![Dashoboard Preview]([https://github.com/KaushiKrrish/Customer_Churn_Analysis/blob/main/Churn_Analysis_Summary_Page.png](https://github.com/KaushiKrrish/Excel-Store-Analysis/blob/main/Screenshot%202026-05-28%20171110.png))
